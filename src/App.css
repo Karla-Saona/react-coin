@@ -1,0 +1,23 @@
+body{
+background-color: rgb(114, 168, 244);
+font-family: Arial;
+}
+
+nav{
+background: white;
+padding: 10px;
+}
+
+a{
+margin-right: 10px;
+text-decoration: none;
+font-weight: bold;
+}
+
+a:hover{
+color: blue;
+}
+
+h1{
+margin-top: 20px;
+}
